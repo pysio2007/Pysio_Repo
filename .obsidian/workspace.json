@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "31e5d06769c5f214",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb61ea68bad17b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "945f1fd6d874c1e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hypixel/SkyBlock Update/Happy Holidays from Hypixel!.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1e4874fa6378780",
+    "type": "split",
+    "children": [
+      {
+        "id": "15443073683dcca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7af320bb72b6572",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3ed9aeea415d90d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29e3832e71aa1ce4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "703525a01094e6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc1baec2c9baa8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87682376bb80d8c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hypixel/SkyBlock Update/Happy Holidays from Hypixel!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ebdf2c0a0cc03ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hypixel/SkyBlock Update/Happy Holidays from Hypixel!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e624f44350c0e58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5ae42c9eb85ddd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hypixel/SkyBlock Update/Happy Holidays from Hypixel!.md"
+              }
+            }
+          },
+          {
+            "id": "b0b3ad29e7b393bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "945f1fd6d874c1e4",
+  "lastOpenFiles": [
+    "Hypixel/SkyBlock Update/SkyBlock 0.11.2.md",
+    "Pasted image 20221203100933.png",
+    "Hypixel/SkyBlock Update/Happy Holidays from Hypixel!.md",
+    "Hypixel/SkyBlock Update/SkyBlock Patch 0.16.1 - Spider's Den QoL, new mayor and more!.md",
+    "Hypixel/SkyBlock Update/SkyBlock Patch 0.16 - Kuudra Revamp, End Island QoL, Bits items and more!.md",
+    "Hypixel/SkyBlock Update/SkyBlock Patch 0.15 - Leveling, Balancing, and more!.md",
+    "Hypixel/SkyBlock Update/SkyBlock Patch 0.14 - Shen's Auctions, The Hex, RNG Meter and more!.md",
+    "Hypixel/SkyBlock Update/SkyBlock Patch 0.13 - Crimson Isle.md",
+    "Hypixel/SkyBlock Update/Official Hypixel SkyBlock Wiki Released!.md",
+    "Hypixel/SkyBlock Update/SkyBlock Stranded.md"
+  ]
+}
