@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "67ecc85b388e5b93",
+        "id": "e3dcbd3114dd4986",
         "type": "tabs",
         "children": [
           {
-            "id": "5faf2546ce81e7fa",
+            "id": "7301603529d61d0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "703525a01094e6fc",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypixel/SkyBlock Update/Alpha Net - A new way to test SkyBlock Updates.md",
+                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypixel/SkyBlock Update/Alpha Net - A new way to test SkyBlock Updates.md",
+                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypixel/SkyBlock Update/Alpha Net - A new way to test SkyBlock Updates.md"
+                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md"
               }
             }
           },
@@ -141,7 +146,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7af320bb72b6572",
+  "active": "7301603529d61d0c",
   "lastOpenFiles": [
     "Web/Scamlist.cn/Scamlist API.md",
     "Web/Scamlist.cn/Rank.md",

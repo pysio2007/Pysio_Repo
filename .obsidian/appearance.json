@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "",
+  "textFontFamily": "得意黑",
+  "monospaceFontFamily": "得意黑"
 }
