@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7301603529d61d0c",
+            "id": "39433efae5ea6a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
+                "file": "Hypixel/SkyBlock Update/SkyBlock 0.17.1 - Kuudra Infernal Tier, Party Finder and more!.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "703525a01094e6fc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
+                "file": "Hypixel/SkyBlock Update/SkyBlock 0.17.1 - Kuudra Infernal Tier, Party Finder and more!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
+                "file": "Hypixel/SkyBlock Update/SkyBlock 0.17.1 - Kuudra Infernal Tier, Party Finder and more!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md"
+                "file": "Hypixel/SkyBlock Update/SkyBlock 0.17.1 - Kuudra Infernal Tier, Party Finder and more!.md"
               }
             }
           },
@@ -146,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7301603529d61d0c",
+  "active": "39433efae5ea6a74",
   "lastOpenFiles": [
+    "Hypixel/SkyBlock Update/Alpha Net - A new way to test SkyBlock Updates.md",
+    "Hypixel/SkyBlock Update/Changes to SkyBlock Rules.md",
+    "Hypixel/SkyBlock Update/Dev Blog 5 Storing your SkyBlock island.md",
+    "Hypixel/SkyBlock Update/SkyBlock 0.17.1 - Kuudra Infernal Tier, Party Finder and more!.md",
+    "Hypixel/SkyBlock Update/New Prototype Game - Hypixel SkyBlock.md",
     "Web/Scamlist.cn/Scamlist API.md",
     "Web/Scamlist.cn/Rank.md",
     "Web/Scamlist.cn/Scamlist.cn.md",
     "Web/未命名.md",
-    "Hypixel/SkyBlock Update/README.md",
-    "README.md",
-    "Hypixel/SkyBlock Update/Happy Holidays from Hypixel!.md",
-    "Hypixel/SkyBlock Update/SkyBlock 0.11.2.md",
-    "Pasted image 20221203100933.png",
-    "Hypixel/SkyBlock Update/SkyBlock Patch 0.16.1 - Spider's Den QoL, new mayor and more!.md"
+    "Hypixel/SkyBlock Update/README.md"
   ]
 }
